@@ -1,2 +1,12 @@
 number = 1;
 console.log(number);
+String = "Rede cidadã";
+console.log(String);
+double = 3.141516;
+console.log(double);
+boolean = true;
+console.log(boolean);
+array = [1,2,3,4,5,6];
+console.log(array);
+mixedarray = [1, 3.141516, "String para demonstração", false];
+console.log(mixedarray);
