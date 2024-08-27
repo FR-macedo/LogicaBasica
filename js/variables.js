@@ -1,3 +1,5 @@
+const int = 2;
+console.log(int);
 let number = 1;
 console.log(number);
 let String = "Rede cidadã";
