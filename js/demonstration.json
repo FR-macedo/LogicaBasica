@@ -1,0 +1,21 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "isStudent": false,
+    "skills": ["JavaScript", "Java", "Python"],
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA"
+    },
+    "hobbies": [
+        {
+            "name": "Reading",
+            "type": "Educational"
+        },
+        {
+            "name": "Gaming",
+            "type": "Entertainment"
+        }
+    ]
+}
