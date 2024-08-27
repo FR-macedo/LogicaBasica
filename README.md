@@ -12,9 +12,9 @@ Esse repositório foi criada como uma demonstração de lógica de programação
 - objects: demonstração  de como criar objetos
 - demonstration.json: este arquivo é somente um JSON que será utilizado para demonstrar como funciona a estrutura de um arquivo JSON.
 
-# clone este repostorio na sua maquina e estude por ele
+# Clone este repositoório na sua máquina e estude por ele
 
-Caso você nunca tenha utilizado o gti antes, aqui está um pequeno tutorial:
+Caso você nunca tenha utilizado o git antes, aqui está um pequeno tutorial de como vocÊ pode clonar o repo:
 
 # Guia de Instalação do Git e Clonagem de Repositórios
 
