@@ -93,7 +93,7 @@ Para clonar um repositório do GitHub (ou de outra plataforma Git), siga os pass
 
 
 
-Após executar esse comando, você terá uma cópia completa do repositório `linux` no seu computador.
+Após executar esse comando, você terá uma cópia completa do repositório no seu computador.
 
 ---
 
