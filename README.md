@@ -4,11 +4,11 @@ Esse repositório foi criada como uma demonstração de lógica de programação
 
 ### Descrição dos arquivos:
 
-- variables.js
-- condicional..js
-- repetition.js
-- functions.js
-- objects.js
-- demonstration.
+- variables: uma demonstração de como declarar variaveis de todos os tipos, incluindo arrays e matrizes.
+- condicional: demonstração de como tomar decisões atraves de estruturas condidiconais 
+- repetition: demonstração de estruturas de repetição
+- functions: demonstração de como criar funções e chama-las
+- objects: demonstração  de como criar objetos
+- demonstration.json: este arquivo é somente um JSON que será utilizado para demonstrar como funciona a estrutura de um arquivo JSON.
 
 
