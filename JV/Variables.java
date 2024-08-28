@@ -9,6 +9,8 @@ public class Variables {
         boolean booleanVar = true;
 
         int[] arrayVar = {1, 2, 3, 4, 5};
+        int[] arrayTeste = new int[8];
+        int[][] matriz = new int[9][4];
         int[][] matrixVar = {
             {1, 2, 3},
             {4, 5, 6},
