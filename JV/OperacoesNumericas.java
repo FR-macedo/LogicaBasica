@@ -1,4 +1,4 @@
-package java;
+package JV;
 
 public class OperacoesNumericas {
 

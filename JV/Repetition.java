@@ -1,4 +1,4 @@
-package java;
+package JV;
 
 public class Repetition {
     public static void main(String[] args) {
